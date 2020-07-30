@@ -1,2 +1,2 @@
 # tgram
-This is study project for build personal Telagram App
+This is study project for build personal Telegram App
